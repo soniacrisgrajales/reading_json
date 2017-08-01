@@ -1,0 +1,13 @@
+{
+	"result":[{
+		"encabezado":{"resultado":"true","imensaje":"","mensaje":"","tiempo":"219"},
+		"respuesta":{
+             "datos":{
+                "keyagente":"28533BCD97",
+                "version":"4",
+				"release":"7",
+				"actualizacion":"1"
+			} 
+		}
+	}]
+}
